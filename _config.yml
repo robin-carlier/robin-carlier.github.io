@@ -2,7 +2,7 @@ title: Robin Carlier
 description: PhD student in mathematics.
 show_downloads: false
 
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-minimal
 exclude:
   - README.md
